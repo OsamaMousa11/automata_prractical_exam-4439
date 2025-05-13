@@ -4,7 +4,7 @@
 ## task:1       task:2
 
 ## Getting Started
-### Make sure you have NET SDK installed. 
+### Make sure you have NET 8 installed. 
 
 ### Install dependencies (only needed to run tests) 
 
