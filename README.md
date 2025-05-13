@@ -5,7 +5,11 @@
 
 ## Getting Started
 ``` Make sure you have NET SDK installed. ```
+
+
  ``` Install dependencies (only needed to run tests) ```
+
+ 
  ``` install FluentAssertion ```
 ``` install Microsoft.Net.Test.Sdk ```
 ``` install coverlet.collector ```
