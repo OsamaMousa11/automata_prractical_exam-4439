@@ -4,15 +4,17 @@
 ## task:1 task:2
 
 ## Getting Started
-``` Make sure you have NET SDK installed. ```
+###Make sure you have NET SDK installed. 
 
-
- ``` Install dependencies (only needed to run tests) ```
+###Install dependencies (only needed to run tests) 
 
  
  ``` install FluentAssertion ```
+ 
 ``` install Microsoft.Net.Test.Sdk ```
+
 ``` install coverlet.collector ```
+
  ``` intall xunit.runner.visualstudio ```
 
 
