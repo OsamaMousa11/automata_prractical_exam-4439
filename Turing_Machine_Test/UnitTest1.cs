@@ -14,8 +14,8 @@ public class TuringMachineWWTests
     [InlineData("1010", true)]
     [InlineData("011011", true)]
     [InlineData("010", false)]
-    [InlineData("", true)] // "" = ? ? => valid
-    [InlineData("1", false)] // ????
+    [InlineData("", true)] 
+    [InlineData("1", false)] 
     public void TestIsWW(string input, bool expected)
     {
         bool result = _turingMachine.IsWW(input);
