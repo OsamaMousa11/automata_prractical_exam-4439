@@ -22,7 +22,7 @@
 ### to run project Dfa(problem_1)
 ``` dotnet run --project Dfa(problem_1)\Dfa(problem_1).csproj  ```
 
-### to run project Dfa(problem_1)
+### to run project PDa(problem_2)
 
 ``` dotnet run --project Pda(problem_2)\PDa(problem_2).csproj ```
 
