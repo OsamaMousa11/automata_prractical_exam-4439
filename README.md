@@ -9,13 +9,13 @@
 ### Install dependencies (only needed to run tests) 
 
  
- ``` install FluentAssertion ```
+ ``` Install-Package FluentAssertion ```
  
-``` install Microsoft.Net.Test.Sdk ```
+``` Install-Package Microsoft.Net.Test.Sdk ```
 
-``` install coverlet.collector ```
+``` Install-Package coverlet.collector ```
 
- ``` intall xunit.runner.visualstudio ```
+ ``` Install-Package xunit.runner.visualstudio ```
 
 
 ## Run the Programs
