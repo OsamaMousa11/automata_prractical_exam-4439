@@ -1,7 +1,7 @@
 # automata_prractical_exam(4439)
 ## Section: 1
 ## osama mousa mousa omar
-## task:1       task:2
+## task:1       task:2     task:3
 
 ## Getting Started
 ### Make sure you have NET 8 installed. 
